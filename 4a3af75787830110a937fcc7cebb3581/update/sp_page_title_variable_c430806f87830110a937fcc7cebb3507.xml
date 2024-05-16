@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page_title_variable">
     <sp_page_title_variable action="INSERT_OR_UPDATE">
         <column_name>sys_id</column_name>
+        <filter_condition/>
         <id_parameter>sys_id</id_parameter>
+        <order/>
         <source_field>name</source_field>
         <source_table>sc_cat_item</source_table>
         <sp_page display_value="cc_cat_item">cead77db87830110a937fcc7cebb357e</sp_page>

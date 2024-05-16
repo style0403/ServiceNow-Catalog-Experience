@@ -17,6 +17,7 @@
         <size>md</size>
         <sp_column display_value="2">8eadf7db87830110a937fcc7cebb3528</sp_column>
         <sp_widget display_value="Typeahead Search">fa20ec02cb31020000f8d856634c9ce9</sp_widget>
+        <spell_check_font_size/>
         <sys_class_name>sp_instance_ais</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-04-29 19:39:56</sys_created_on>

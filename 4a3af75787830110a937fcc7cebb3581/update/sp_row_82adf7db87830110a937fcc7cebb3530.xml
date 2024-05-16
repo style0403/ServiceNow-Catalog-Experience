@@ -2,6 +2,7 @@
     <sp_row action="INSERT_OR_UPDATE">
         <class_name/>
         <order>1</order>
+        <semantic_tag/>
         <sp_column/>
         <sp_container display_value="Catalog Item - Container 2">02adf7db87830110a937fcc7cebb352e</sp_container>
         <sys_class_name>sp_row</sys_class_name>

@@ -8,6 +8,7 @@
         <container_class_name/>
         <name>Catalog Item - Container 2</name>
         <order>2</order>
+        <semantic_tag/>
         <sp_page display_value="cc_cat_item">cead77db87830110a937fcc7cebb357e</sp_page>
         <subheader>false</subheader>
         <sys_class_name>sp_container</sys_class_name>

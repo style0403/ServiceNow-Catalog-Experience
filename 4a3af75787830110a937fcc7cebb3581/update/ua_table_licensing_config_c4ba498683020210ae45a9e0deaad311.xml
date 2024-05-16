@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-04-30 02:11:38</sys_created_on>
-        <sys_id>8857592f87870110a937fcc7cebb35a1</sys_id>
+        <sys_id>c4ba498683020210ae45a9e0deaad311</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_0505_cc_sc_tools_section</sys_name>
         <sys_package display_value="CodeCreative Catalog Experience" source="x_0505_cc_sc_tools">4a3af75787830110a937fcc7cebb3581</sys_package>
         <sys_policy/>
         <sys_scope display_value="CodeCreative Catalog Experience">4a3af75787830110a937fcc7cebb3581</sys_scope>
-        <sys_update_name>ua_table_licensing_config_8857592f87870110a937fcc7cebb35a1</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_c4ba498683020210ae45a9e0deaad311</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-04-30 02:11:38</sys_updated_on>
     </ua_table_licensing_config>
